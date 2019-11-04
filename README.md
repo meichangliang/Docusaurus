@@ -1,2 +1,3 @@
 # Docusaurus
-facebook开源的基于React的文档生成器
+
+facebook 开源的基于 React 的文档生成器
